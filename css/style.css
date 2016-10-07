@@ -1,1 +1,44 @@
 @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+.top{
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    height:200px;
+    background-color:black;
+}
+h1{
+    
+    text-align: center;
+    color:yellow;
+    background-color: blue;
+}
+.game{
+    padding-left: 0px;
+    padding-right:5px; 
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    max-height: 500px;
+   background-image: url('/images/Hritick.jpg');
+    overflow: hidden;
+}
+button{
+    margin:0px;  
+    height:100px;
+    width: 170px;
+    color: black;
+    background-color: brown;
+    
+}
+.opt{
+    margin:30px;
+    background-color: yellow;
+}
+.bottom{
+    height: 30vmax;
+    background-color: black;
+    color:fuchsia; 
+    text-align: center;
+}
