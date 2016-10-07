@@ -4,7 +4,8 @@
     display: inline-block;
     flex:wrap;
     width:100vmax;
-    height:200px;
+    height:300px;
+    margin:auto;
     background-color:black;
 }
 h1{
@@ -21,7 +22,7 @@ h1{
     flex:wrap;
     width:100vmax;
     max-height: 500px;
-   background-image: url('http://media1.santabanta.com/full5/Indian%20%20Celebrities(M)/Hrithik%20Roshan/hrithik-roshan-81a.jpg');
+   background-image: url('http://media1.santabanta.com/full1/Indian%20%20Celebrities(M)/Hrithik%20Roshan/hrithik-roshan-89a.jpg');
     
     overflow: hidden;
 }
