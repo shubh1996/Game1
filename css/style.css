@@ -21,7 +21,8 @@ h1{
     flex:wrap;
     width:100vmax;
     max-height: 500px;
-   background-image: url('/images/Hritick.jpg');
+   background-image: url('http://media1.santabanta.com/full5/Indian%20%20Celebrities(M)/Hrithik%20Roshan/hrithik-roshan-81a.jpg');
+    
     overflow: hidden;
 }
 button{
@@ -30,6 +31,7 @@ button{
     width: 170px;
     color: black;
     background-color: brown;
+    outline:transparent;
     
 }
 .opt{
