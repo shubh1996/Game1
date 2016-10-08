@@ -41,6 +41,7 @@ button{
 }
 .bottom{
     height: 30vmax;
+    width:100vmax;
     background-color: black;
     color:fuchsia; 
     text-align: center;
